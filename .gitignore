@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Local development
+.env
+.env.local
+
+# Model files
+*.pth
+*.pt
+*.h5
+*.hdf5
+
+# Test outputs
+test_outputs/
+
+# Data directories
+data/
+data/hr_images/
+data/lr_images/
+data/test/
+data/test_img/
+
+# Ignore data directory containing large image files
+data/
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+# Ignore virtual environment
+venv/
+env/
+# Ignore IDE files
+.vscode/
+.idea/
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/ 
