@@ -86,11 +86,11 @@ Feel free to submit issues and enhancement requests.
 
 ## License
 
-[Your License Here]
+Open Source Project
 
 ## Contact
 
-[Your Contact Information]
+amit26543789@gmail.com
 
 ---
 
